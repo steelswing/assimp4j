@@ -108,3 +108,5 @@ public static class Mesh {
     }
 }
 ```
+
+Native: https://github.com/assimp/assimp
