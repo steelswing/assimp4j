@@ -1,9 +1,7 @@
-# assimp4j
-Compiled assimp for java!
+# Assimp for java
+This library works without LWJGL 3!
 
-
-# Example
-
+# Examples
 ### Static mesh loader
 ```java
   public static final Set<AiPostProcessSteps> ASSIMP_POST = new HashSet<AiPostProcessSteps>() {
