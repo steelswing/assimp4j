@@ -1,3 +1,5 @@
+# DEPRECATED REPO. MOVED TO -> https://github.com/steelswing/assimp4j-52
+
 # Assimp for java
 This library works without LWJGL 3!
 
